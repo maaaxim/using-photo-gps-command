@@ -1,0 +1,9 @@
+{
+    "require": {
+        "symfony/console": "^4.1",
+        "maaaxim/photo-gps": "1.1.0"
+    },
+    "autoload": {
+        "psr-4": {"Maaaxim\\UsingPhotoGpsCommand\\": "src/"}
+    }
+}
